@@ -4,7 +4,7 @@
   <subtitle><![CDATA[转~转~转~]]></subtitle>
   <link href="http://alantr.github.com/atom.xml" rel="self"/>
   <link href="http://alantr.github.com"/>
-  <updated>2013-02-13T06:23:32.177Z</updated>
+  <updated>2013-02-13T07:02:06.253Z</updated>
   <id>http://alantr.github.com/</id>
   <author>
     <name><![CDATA[AlanTR]]></name>
@@ -26,8 +26,8 @@
     <link href="http://alantr.github.com/2013/02/12/hello-world/"/>
     <id>http://alantr.github.com/2013/02/12/hello-world/</id>
     <published>2013-02-12T02:48:08.000Z</published>
-    <updated>2013-02-13T06:23:27.000Z</updated>
-    <content type="html"><![CDATA[<h2>测试开始</h2>
+    <updated>2013-02-13T07:01:48.000Z</updated>
+    <content type="html"><![CDATA[<h1>测试开始</h1>
 <hr>
 <notextile><blockquote class="pullquote">Your world is as big as you make it.
 I know, for I used to abide

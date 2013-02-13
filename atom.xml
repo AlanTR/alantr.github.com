@@ -4,7 +4,7 @@
   <subtitle><![CDATA[转~转~转~]]></subtitle>
   <link href="http://alantr.tk/atom.xml" rel="self"/>
   <link href="http://alantr.tk"/>
-  <updated>2013-02-13T12:54:59.058Z</updated>
+  <updated>2013-02-13T12:58:32.802Z</updated>
   <id>http://alantr.tk/</id>
   <author>
     <name><![CDATA[AlanTR]]></name>
@@ -16,7 +16,7 @@
     <link href="http://alantr.tk/2013/02/13/windows平台下git中文乱码的问题/"/>
     <id>http://alantr.tk/2013/02/13/windows平台下git中文乱码的问题/</id>
     <published>2013-02-13T12:38:13.000Z</published>
-    <updated>2013-02-13T12:54:47.000Z</updated>
+    <updated>2013-02-13T12:58:22.000Z</updated>
     <content type="html"><![CDATA[<p>进入git安装目录，改一下配置就可以基本解决：
 1、etc\gitconfig：</p>
 <notextile><blockquote><p>[gui]
@@ -46,6 +46,7 @@
 <p>转自<a href="http://blog.csdn.net/jizhengjieing/article/details/6799211">jizhengjieing的专栏</a></p>
 ]]></content>
     <category scheme="http://alantr.tk/tags/Git/" term="Git"/>
+    <category scheme="http://alantr.tk/tags/版本控制/" term="版本控制"/>
   </entry>
   <entry>
     <title type="html"><![CDATA[第一篇文章]]></title>

@@ -56,6 +56,9 @@ a:hover {
 .alignright {
   float: right;
 }
+.audiojs {
+  margin: 15px 0px 20px;
+}
 .clearfix {
   zoom: 1;
 }

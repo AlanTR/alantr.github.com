@@ -4,7 +4,7 @@
   <subtitle><![CDATA[转~转~转~]]></subtitle>
   <link href="http://alantr.tk/atom.xml" rel="self"/>
   <link href="http://alantr.tk"/>
-  <updated>2013-02-14T09:21:27.707Z</updated>
+  <updated>2013-02-14T09:23:21.353Z</updated>
   <id>http://alantr.tk/</id>
   <author>
     <name><![CDATA[AlanTR]]></name>
@@ -16,7 +16,7 @@
     <link href="http://alantr.tk/2013/02/13/windows平台下git中文乱码的问题/"/>
     <id>http://alantr.tk/2013/02/13/windows平台下git中文乱码的问题/</id>
     <published>2013-02-13T12:38:13.000Z</published>
-    <updated>2013-02-13T12:58:22.000Z</updated>
+    <updated>2013-02-14T09:22:46.000Z</updated>
     <content type="html"><![CDATA[<p>进入git安装目录，改一下配置就可以基本解决：
 1、etc\gitconfig：</p>
 <notextile><blockquote><p>[gui]
@@ -27,8 +27,9 @@
      pathnameencoding = gbk</p>
 <footer></footer></blockquote></notextile>
 
-<p>说明：打开 Git 环境中的中文支持。pathnameencoding设置了文件路径的中文支持。</p>
-<p>2、etc\git-completion.bash：</p>
+<p>说明：打开 Git 环境中的中文支持。pathnameencoding设置了文件路径的中文支持。
+<span id="more"></span>
+2、etc\git-completion.bash：</p>
 <notextile><blockquote><p>alias ls=&#39;ls --show-control-chars --color=auto&#39;</p>
 <footer></footer></blockquote></notextile>
 
@@ -67,12 +68,13 @@
     <link href="http://alantr.tk/2013/02/12/hello-world/"/>
     <id>http://alantr.tk/2013/02/12/hello-world/</id>
     <published>2013-02-12T02:48:08.000Z</published>
-    <updated>2013-02-14T09:20:59.000Z</updated>
+    <updated>2013-02-14T09:22:27.000Z</updated>
     <content type="html"><![CDATA[<h1>测试开始</h1>
 <p>People die. Things decay.Everything that seemed so solid is meaningless.All that left is gestures we make.Gestures and air, that&#39;s what we remember.</p>
 <p>We remember what we choose.</p>
 <p>In a week, there would be no trace of her. But what did it matter?
-This wasn&#39;t the real world. We really only lived in each other&#39;s hearts.She lived in my heart, but I lived no where.I was all alone in the world.</p>
+This wasn&#39;t the real world. We really only lived in each other&#39;s hearts.She lived in my heart, but I lived no where.I was all alone in the world.
+<span id="more"></span></p>
 <p>You&#39;ve burned every bridge,
 You&#39;ve worned out every welcome
 and everyone who&#39;s ever believed in you.
@@ -84,8 +86,7 @@ My wings pressing close to my side.</blockquote></notextile>
 
 <p>I knew when at that moment I had to make a choice.I could submit to everything that was happening in living life of excuses
 or I could push myself.
-I could push myself and make my life good.
-<span id="more"></span></p>
+I could push myself and make my life good.</p>
 <p>For the first time
 my life had some order I can count on
 What... what if I work even more?

@@ -4,7 +4,7 @@
   <subtitle><![CDATA[努力学习……啊啊啊好多不会的！]]></subtitle>
   <link href="http://alantr.tk/atom.xml" rel="self"/>
   <link href="http://alantr.tk"/>
-  <updated>2013-02-16T13:32:39.391Z</updated>
+  <updated>2013-02-16T13:34:10.397Z</updated>
   <id>http://alantr.tk/</id>
   <author>
     <name><![CDATA[AlanTR]]></name>
@@ -68,7 +68,7 @@
     <link href="http://alantr.tk/2013/02/12/hello-world/"/>
     <id>http://alantr.tk/2013/02/12/hello-world/</id>
     <published>2013-02-12T02:48:08.000Z</published>
-    <updated>2013-02-16T13:32:21.000Z</updated>
+    <updated>2013-02-16T13:34:04.000Z</updated>
     <content type="html"><![CDATA[<h1>测试开始</h1>
 <p>People die. Things decay.Everything that seemed so solid is meaningless.All that left is gestures we make.Gestures and air, that&#39;s what we remember.</p>
 <p>We remember what we choose.</p>
@@ -108,7 +108,7 @@ I had to... there was no going back</p>
 <video id="my_video_1" class="video-js vjs-default-skin" controls
   preload="auto" width="640" height="264" poster="my_video_poster.png"
   data-setup="{}">
-  <source src="http://60.235.18.178/videoplayer/163046717.h264_2.f4v?ich_u_r_i=79c55819aa29f9bdf85fb24340365f9a&ich_s_t_a_r_t=0&ich_e_n_d=0&ich_k_e_y=1345028916751363402494&ich_t_y_p_e=1001&ich_d_i_s_k_i_d=3&ich_u_n_i_t=1" type='video/flv'>
+  <source src="http://60.235.18.178/videoplayer/163046717.h264_2.f4v" type='video/flv'>
 </video>
 
 
